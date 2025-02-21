@@ -30,6 +30,6 @@ public class Main {
         //System.out.println("O automóvel com maior cilindrada tem a matrícula: " +
         // (a1.isCilindradaMaior(a2) ? a1.getMatricula() : a2.getMatricula()));
 
-        System.out.println("A cilindrada do automóvel a1 é superior a 2000 cc? " + a1.isCilindradaMaior(2000));
+        System.out.println("A cilindrada do automóvel a1 é superior a 2000 cc? " + a1.isCilindradaMaior(2000));//n
     }
 }
